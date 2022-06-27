@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manish6549
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on for web development.
 - 📫 How to reach me through Gmail- mrathore6549@gmail.com or ig- manish._.00
 
