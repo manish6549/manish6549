@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manish6549
+- 👋 Hi, I’m Manish Rathore.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on for web development.
